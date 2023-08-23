@@ -51,3 +51,5 @@
 ` <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a> ` 와 같은 방식으로 쓴다.
 
 
+### 코멘트 ###
+정하솔: 간략하게 잘 요약하겠네요! 수고하셨습니다:)
